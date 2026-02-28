@@ -1,35 +1,36 @@
-<h1 align="center">Hi 👋, I'm Mridul Soliwal</h1>
-<h3 align="center">Python Developer | AI & Machine Learning Enthusiast | Software Development</h3>
+<h3 align="center">
+Python Developer | AI & Machine Learning | Software Development
+</h3>
 
 <p align="center">
-  <em>Code. Learn. Build. Repeat.</em>
+Focused on building practical, real-world projects and improving every day.
 </p>
 
 ---
 
 ## 🚀 About Me
-I am a passionate developer with a strong interest in **Python programming, Artificial Intelligence, and Machine Learning**.  
-I enjoy building **real-world, impact-driven projects** that focus on problem solving, transparency, and scalability.
+I am a developer with a strong interest in **Python, Artificial Intelligence, and Machine Learning**.  
+I enjoy working on **real-world projects** that focus on problem solving, transparency, and clean implementation.
 
-I have a solid foundation in **object-oriented programming, database systems, and software development principles**, and I continuously improve my skills by working on practical projects and exploring new technologies.
+I have experience with **object-oriented programming, databases, and core software development concepts**, and I continuously improve by building projects and learning new tools.
 
-Currently, I am working on **SubsiGuard**, a transparency-focused project aimed at improving accountability using technology.
+Currently working on **SubsiGuard**, a transparency-focused project.
 
 ---
 
-## 🧠 Areas of Interest
+## 🧠 Interests
 - Artificial Intelligence & Machine Learning  
-- Data Handling & Analysis  
+- Data Analysis  
 - Software Development  
-- Problem Solving & Logical Thinking  
-- Real-world Project Development  
+- Problem Solving  
+- Real-world Applications  
 
 ---
 
 ## 🛠️ Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/OOP-00599C?style=for-the-badge"/>
@@ -42,31 +43,37 @@ Currently, I am working on **SubsiGuard**, a transparency-focused project aimed 
 
 ## 📌 Featured Project
 ### 🔐 SubsiGuard
-- Transparency-focused software project  
-- Designed to improve accountability and data visibility  
-- Built using Python and core software engineering concepts  
+- Transparency-focused project  
+- Improves data visibility and accountability  
+- Built using Python and software engineering fundamentals  
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mridul-SOI&show_icons=true&theme=tokyonight"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mridul-SOI&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mridul-Sol&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mridul-Sol&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🧩 Top Contributed Repositories
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Mridul-Sol&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+</p>
+
+---
+
+## 🌐 Connect
 <p align="left">
   <a href="https://www.linkedin.com/in/mridulsoliwal8748" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/Mridul-SOI" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
-  </a>
 </p>
 
 ---
 
-⭐ *Focused on building meaningful software and continuously improving as a developer.*
+⭐ *Learning, building, and improving through real projects.*
