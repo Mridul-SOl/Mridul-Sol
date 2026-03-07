@@ -93,17 +93,19 @@ Here are some of the cool projects I have been working on:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mridul-SOl&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mridul-SOl&theme=tokyonight" alt="GitHub Stats"/>
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mridul-SOl&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 ---
 
-## 🌟 Top Contributed Repositories
+## 🌟 Top Languages & Stats
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Mridul-SOl&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repositories"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mridul-SOl&theme=tokyonight" alt="Top Languages"/>
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mridul-SOl&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
 ---
