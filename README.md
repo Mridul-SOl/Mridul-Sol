@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hi there, I'm Mridul! 👋</h1>
-  <h3>Python Developer | AI & ML Enthusiast | Building SubsiGuard 🚀</h3>
+  <h1>Welcome to my GitHub! 👋</h1>
+  <h3>Python Developer | AI & ML Enthusiast 🚀</h3>
   <p><em>Learning, building, and improving through real projects.</em></p>
 </div>
 
@@ -8,14 +8,13 @@
 
 ## 🚀 About Me
 
-Hello! I'm **Mridul**, a passionate software developer who loves building scalable backend systems, intelligent AI applications, and modern web solutions. I enjoy taking complex problems and turning them into clean, efficient, and user-friendly software. 
+A passionate software developer who loves building scalable backend systems, intelligent AI applications, and modern web solutions. I enjoy taking complex problems and turning them into clean, efficient, and user-friendly software. 
 
-- 💡 **Currently working on:** Building awesome projects like **SubsiGuard** (a TypeScript-based platform), **Jarvis-AI** (my personal AI assistant), and robust backend systems.
-- ⚙️ **Experience:** I have hands-on experience developing REST APIs using frameworks like **FastAPI** and **Flask**.
-- 🧠 **Focus Areas:** I have a strong foundation in software development, database management, and system design basics.
-- 📊 **Current Interests:** I am deeply interested in data-driven applications, exploring artificial intelligence, and learning machine learning concepts.
-- 🧩 **My Goal:** I enjoy solving real-world problems with code that is easy to maintain and scale.
-- 🚀 **Always Learning:** I am constantly exploring new technologies across backend, frontend, and data systems to stay up-to-date!
+- ⚙️ **Experience:** Hands-on experience developing REST APIs using frameworks like **FastAPI** and **Flask**.
+- 🧠 **Focus Areas:** A strong foundation in software development, database management, and system design basics.
+- 📊 **Current Interests:** Deeply interested in data-driven applications, exploring artificial intelligence, and learning machine learning concepts.
+- 🧩 **My Goal:** Solving real-world problems with code that is easy to maintain and scale.
+- 🚀 **Always Learning:** Constantly exploring new technologies across backend, frontend, and data systems to stay up-to-date!
 
 ---
 
